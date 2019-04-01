@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Polish Calculator With Tests</string>
+    <string name="c">C</string>
+    <string name="slash">/</string>
+    <string name="asterix">*</string>
+    <string name="dash">-</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="plus">+</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="enter">Enter</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="default_num_display">0.0</string>
+    <string name="Error">Err</string>
+</resources>
